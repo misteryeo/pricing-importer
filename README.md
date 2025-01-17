@@ -60,6 +60,6 @@ python src/main.py
 
 ## Contact
 For questions or support, please contact:
-- **Your Name**: [andy.yeo@gmail.com](mailto:andy.yeo@gmail.com)
-- GitHub: [misteryeo](https://github.com/misteryeo)
+- **Email**: [andy.yeo@gmail.com](mailto:andy.yeo@gmail.com)
+- **GitHub**: [misteryeo](https://github.com/misteryeo)
 
